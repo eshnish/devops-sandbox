@@ -12,4 +12,4 @@ echo "Edited README.md content" > README.md
 git add README.md
 git commit -m "New Changes in Master"
 
-git merge feature-branch
+git merge feature
